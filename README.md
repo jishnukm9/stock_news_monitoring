@@ -1,3 +1,4 @@
+# Stock News Monitoring Project
 ![1646548769511](https://user-images.githubusercontent.com/99253054/156912295-21e0b6d5-4b39-450b-89ff-b88f87528482.jpg)
 
 
